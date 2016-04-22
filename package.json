@@ -26,5 +26,9 @@
     "lite-server": "^2.1.0",
     "typescript": "^1.7.5",
     "typings": "^0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/judgeyboy/ng2-seed.git"
   }
 }
